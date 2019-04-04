@@ -16,4 +16,4 @@ The topics covered in these notebooks are
 8a. Anomaly Detection
 8b. Collaborative Filtering and Recommender Systems
 
-Feel free to take a look, and please let me know if you have any suggestions/comments!
+Please let me know if you have any suggestions/comments!

@@ -11,9 +11,13 @@ Here, I work through all the problem sets from linear regression to collaborativ
   4. Neural Networks
   5. Regularized Linear Regression and Bias vs. Variance
   6. Support Vector Machines
+  
   7a. K-means Clustering
+  
   7b. Dimensionality Reduction with PCA
+  
   8a. Anomaly Detection
+  
   8b. Collaborative Filtering and Recommender Systems
 
 Please let me know if you have any suggestions/comments!

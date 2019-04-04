@@ -6,10 +6,15 @@ Here, I work through all the problem sets from linear regression to collaborativ
 
  The topics covered in these notebooks are 
   1. Simple Linear Regression 
+  
   2. Logistic Regression
+  
   3. Multi-Class Logistic Regression with Regularization
+  
   4. Neural Networks
+  
   5. Regularized Linear Regression and Bias vs. Variance
+  
   6. Support Vector Machines
   
   7a. K-means Clustering
